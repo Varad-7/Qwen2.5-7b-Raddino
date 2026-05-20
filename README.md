@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project integrates **Microsoft's RAD-DINO** (a radiology-specialized DINOv2 ViT-B/14 vision encoder) with **Qwen2.5-7B-Instruct** (a state-of-the-art language model) for chest X-ray report generation on the **IU-Xray** dataset.
+This project integrates **Microsoft's RAD-DINO** (a radiology-specialized DINOv2 ViT-B/14 vision encoder) with **Qwen2.5-7B-Instruct** (a state-of-the-art language model) for chest X-ray report generation on the **Xray** dataset.
 
 ### Architecture
 
